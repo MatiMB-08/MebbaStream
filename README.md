@@ -1,10 +1,9 @@
-# MeBaStream
-
+# MebbaStream
+<p>MebbaStream busca ser un servicio de streaming de música web que te da acceso a tus archivos mp3 alojados en un servidor desde fuera de la red de tu casa.</p>
 
 <details>
 <summary><h2>Índice</h2></summary>
   
- [Introducción](#introducción)
 - [Briefing de ideas](#briefing-de-ideas)
 - [Arquitectura del software](#arquitectura-del-software)
 - [Tecnologías a utilizar](#tecnologías-a-utilizar)
@@ -28,10 +27,6 @@
 - [Guías de usuario](#guías-de-usuario)
 
 
-</details>
-
-<details>
-<summary><h2 ">Introducción</h2></summary>
 </details>
 
 <details>
