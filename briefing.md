@@ -5,7 +5,7 @@
 
 <p>Mi idea es conseguir montar un sistema de streaming hecho de cero en el que pueda acceder a música bajo demanda, idealmente .mp3 pero quizá de otros tipos como .wav o .flac, que introduzca en un servidor base de datos, que reconozca la presencia de estos archivos introducidos y que sea capaz de reproducirlos desde la calle sin necesidad de estar presencialmente en un lugar para que se pueda acceder al contenido del mismo.</p>
 
-Me gustaría que este tuviera una interfaz bonita y, si puedo, algún sistema de customización básica además de funciones básicas de una aplicación de reproducción de música como la pausa, y el avanzar canción, reproducción en bucle, ...
+Me gustaría que este tuviera una interfaz bonita, un sistema de usuarios y, si puedo, algún sistema de customización básica además de funciones básicas de una aplicación de reproducción de música como la pausa, y el avanzar canción, reproducción en bucle, ...
 
 <h3>¿Porque hacer esto?</h3>
 
@@ -23,8 +23,9 @@ Como público objetivo he pensado principalmente en personas que quieran disfrut
 
 No busco ser la mejor opción pero me encantaría poner mi esfuerzo en lograr una experiencia agradable.
 
-<h3>Sobre los Módulos SMX</h3>
-
+<h3>Sobre los Módulos SMX2</h3>
+<h4>Seguridad informática</h4>
+Mandar datos fuera de mi casa puede ser peligroso. Además, cosas como la seguridad de gente que cree sus propias cuantas, que las contraseñas estén correctamente hasheadas o encriptadas de alguna manera para la seguridad del servidor. En el caso de las bases de datos, la seguridad en el acceso es muy importante; solo personas autorizadas deberían tener acceso a acceder y modificar.
 
 
 
